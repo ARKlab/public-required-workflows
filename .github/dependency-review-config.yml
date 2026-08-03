@@ -25,3 +25,4 @@ allow_licenses:
 allow-dependencies-licenses:
   - pkg:npm/react-icons@5.5.0
   - pkg:nuget/AwesomeAssertions
+  - pkg:nuget/ErrorProne.NET.CoreAnalyzers
