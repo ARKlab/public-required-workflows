@@ -27,3 +27,8 @@ allow-dependencies-licenses:
   - pkg:nuget/AwesomeAssertions
   - pkg:nuget/Microsoft.CodeAnalysis.Analyzers
   - pkg:nuget/ErrorProne.NET.CoreAnalyzers
+  - pkg:nuget/Microsoft.AspNetCore.WebUtilities
+  - pkg:nuget/Microsoft.Net.Http.Headers
+  - pkg:nuget/Microsoft.Testing.Extensions.HotReload
+  - pkg:nuget/Microsoft.Testing.Extensions.Retry
+  - pkg:nuget/Microsoft.VisualStudio.Threading.Analyzers
